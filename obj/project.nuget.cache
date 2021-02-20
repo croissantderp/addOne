@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUjyO4l4ymiWWJhfuKGJSz+Uyq8oBELSZU7lhEkPOx650wHqGli7mNLTAWgv9DXl7MTyPg7BgAiZryHha9Z7og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yiunf\\source\\repos\\isTenThousand\\isTenThousand\\isTenThousand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yiunf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yiunf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
