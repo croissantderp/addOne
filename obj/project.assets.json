@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yiunf\\source\\repos\\isTenThousand\\isTenThousand\\isTenThousand.csproj",
-      "projectName": "isTenThousand",
-      "projectPath": "C:\\Users\\yiunf\\source\\repos\\isTenThousand\\isTenThousand\\isTenThousand.csproj",
+      "projectUniqueName": "C:\\Users\\yiunf\\source\\repos\\isTenThousand\\isTenThousand\\addOne.csproj",
+      "projectName": "addOne",
+      "projectPath": "C:\\Users\\yiunf\\source\\repos\\isTenThousand\\isTenThousand\\addOne.csproj",
       "packagesPath": "C:\\Users\\yiunf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yiunf\\source\\repos\\isTenThousand\\isTenThousand\\obj\\",
       "projectStyle": "PackageReference",

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace isTenThousand
+namespace addOne
 {
     public class main
     {
@@ -21,7 +21,7 @@ namespace isTenThousand
         string number9 = "";
 
         // This is probably a bad idea
-        public bool isTenThousand(string number)
+        public bool addOne(string number)
         {
             int iterationnumber =
                 10000
