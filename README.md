@@ -1,2 +1,2 @@
 # isTenThousand
- a c# version of the amazing "is-ten-thousand" created by James Whitely
+ a c# version of the amazing "[is-ten-thousand](https://github.com/james-work-account/is-ten-thousand)" created by [James Whitely](https://github.com/james-work-account)
